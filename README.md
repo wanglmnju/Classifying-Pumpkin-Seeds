@@ -44,17 +44,17 @@ Classifying-Pumpkin-Seeds/
 3. **Modeling**  
    - Trained and evaluated several classifiers:
      - Logistic Regression
+     - K-Nearest Neighbors (KNN)
+     - LDA, QDA, and naive Bayes' models
      - PCA
+     - Support Vector Machine (SVM)
      - Gradient Boosting
      - Random Forest
-     - Support Vector Machine (SVM)
-     - K-Nearest Neighbors (KNN)
-   - Used cross-validation and a confusion matrix for evaluation
+     - XGBoost
+     - Used cross-validation for evaluation
 
 4. **Performance Metrics**  
    - Accuracy
-   - Precision, Recall, F1-score
-   - ROC Curve 
 
 ## Results
 
