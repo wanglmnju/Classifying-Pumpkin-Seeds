@@ -58,4 +58,4 @@ Classifying-Pumpkin-Seeds/
 
 ## Results
 
-The best-performing model achieved an accuracy of approximately **XX%** on the test set (update based on your actual result). The model was able to effectively distinguish between the two pumpkin seed varieties based on morphological features.
+The best-performing model, random forest, achieved an accuracy of approximately 0.868 on the test set (update based on your actual result). The model effectively distinguished between the two pumpkin seed varieties based on morphological features.
