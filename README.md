@@ -21,14 +21,14 @@ The dataset used comes from the [UCI Machine Learning Repository - Pumpkin Seeds
 - Class Label (target variable)
 
 ## Project Structure
-
+<pre> ```
 Classifying-Pumpkin-Seeds/
 ├── notebook/
 │ └──  pumpkin_seed_classification.ipynb # Main notebook for analysis
 ├── data/
 │ └── Pumpkin_Seeds_Dataset.csv # Dataset file
 ├── README.md # Project description and usage
-
+ ``` </pre>
 
 ## Approach
 
