@@ -21,14 +21,14 @@ The dataset used comes from the [UCI Machine Learning Repository - Pumpkin Seeds
 - Class Label (target variable)
 
 ## Project Structure
-<pre> ```
+<pre> 
 Classifying-Pumpkin-Seeds/
 ├── notebook/
 │ └──  pumpkin_seed_classification.ipynb # Main notebook for analysis
 ├── data/
 │ └── Pumpkin_Seeds_Dataset.csv # Dataset file
 ├── README.md # Project description and usage
- ``` </pre>
+ </pre>
 
 ## Approach
 
@@ -44,15 +44,17 @@ Classifying-Pumpkin-Seeds/
 3. **Modeling**  
    - Trained and evaluated several classifiers:
      - Logistic Regression
+     - PCA
+     - Gradient Boosting
      - Random Forest
      - Support Vector Machine (SVM)
      - K-Nearest Neighbors (KNN)
-   - Used cross-validation and confusion matrix for evaluation
+   - Used cross-validation and a confusion matrix for evaluation
 
 4. **Performance Metrics**  
    - Accuracy
    - Precision, Recall, F1-score
-   - ROC Curve (if applicable)
+   - ROC Curve 
 
 ## Results
 
